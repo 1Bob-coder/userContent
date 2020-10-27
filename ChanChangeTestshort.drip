@@ -1,0 +1,12 @@
+wait:2000; send:1,18.
+wait:500; send:1,18.
+wait:500; send:1,28.
+wait:5000; send:1,11.
+wait:5000; send:1,14.
+wait:500; send:1,36.
+wait:500; send:1,28.
+wait:5000; send:1,11.
+wait:5000; send:1,18.
+wait:500; send:1,25.
+wait:500; send:1,27.
+wait:5000; send:1,16.

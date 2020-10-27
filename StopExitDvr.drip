@@ -1,0 +1,3 @@
+wait:2000; send:1,45.
+wait:2000; send:1,5.
+wait:2000; send:1,21.
